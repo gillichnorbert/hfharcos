@@ -1,0 +1,15 @@
+/Users/gillichnorbert/Projects/0212/Harcos/bin/Debug/net7.0/Harcosos
+/Users/gillichnorbert/Projects/0212/Harcos/bin/Debug/net7.0/Harcosos.deps.json
+/Users/gillichnorbert/Projects/0212/Harcos/bin/Debug/net7.0/Harcosos.runtimeconfig.json
+/Users/gillichnorbert/Projects/0212/Harcos/bin/Debug/net7.0/Harcosos.dll
+/Users/gillichnorbert/Projects/0212/Harcos/bin/Debug/net7.0/Harcosos.pdb
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.csproj.AssemblyReference.cache
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.AssemblyInfoInputs.cache
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.AssemblyInfo.cs
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.csproj.CoreCompileInputs.cache
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.dll
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/refint/Harcosos.dll
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.pdb
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/Harcosos.genruntimeconfig.cache
+/Users/gillichnorbert/Projects/0212/Harcos/obj/Debug/net7.0/ref/Harcosos.dll
